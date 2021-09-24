@@ -1,0 +1,27 @@
+Path to update your present & permanent address:
+Ultimatix > Applications -> Employee Services -> GESS (Global Employee Self Services)> My Profile > Basic Details -> Address details
+1. Click on create base
+2. First Add your present address (Address Type) , fill all the mandatory fields, mark it as primary address and click on save.
+3. Click back and again click on create base.
+4. Second Add your permanent address (Address Type) , fill all the mandatory fields and click on save.
+5. Click on back and wait for 24 hours for the changes to reflect.
+Please note if you are working from home and is staying there then, the present and permanent address will be same. Then also you have to create the base two times by putting same address and selecting different address type. Make sure always mark the present address as your primary address.
+
+
+
+Enter SWON Number: (XXXXX)
+Task Category : 
+Training & Development
+Task Name : 
+Xperience Learning
+Charge Type*:
+Non-Billable : 9 hrs
+
+
+To refer Policies-Learning & Collaboration –> Knowmax–> My HR -> India
+Claims Queries-
+Ultimatix-TCS Global Helpdesk -Raise a New UltimatixTicket -> UltimatixServices -> Global ESS -> Global ESS Claim.  
+Payroll Queries-
+Ultimatix-TCS Global Helpdesk -Raise a New UltimatixTicket -> UltimatixServices -> India Payroll.  
+Branchwise Finance SPOC details- 
+Chennai: Ratnam.N@tcs.com Hyderabad: Satyendra1.Kumar@tcs.com Kochi & Trivandrum: Ullas.Karanth1@tcs.com Delhi : Delhi.Finance@tcs.com Bangalore : Bangalore.Finance@tcs.com Pune ,Ahmedabad,Indore & Vadodara : Ganesh.dhamdhere@tcs.com Kolkatta & Bhubaneshwar: santanu.m@tcs.com  Mumbai : aban.billimoria@tcs.com 
